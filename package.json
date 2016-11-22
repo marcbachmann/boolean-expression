@@ -1,0 +1,23 @@
+{
+  "name": "boolean-expression",
+  "version": "1.0.0",
+  "description": "Create a boolean expression that's safe to eval",
+  "keywords": ["boolean", "expression", "condition", "conditional", "parser"],
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Marc Bachmann <marc.brookman@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcbachmann/boolean-expression.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcbachmann/boolean-expression/issues"
+  },
+  "homepage": "https://github.com/marcbachmann/boolean-expression#readme",
+  "devDependencies": {
+    "standard": "^8.5.0"
+  }
+}
