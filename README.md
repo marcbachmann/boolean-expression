@@ -1,5 +1,7 @@
 # boolean-expression
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcbachmann/boolean-expression.svg)](https://greenkeeper.io/)
+
 Create a boolean expression that's safe to eval
 
 ## expression = booleanExpression(exp)
