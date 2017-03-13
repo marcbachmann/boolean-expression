@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/marcbachmann/boolean-expression#readme",
   "devDependencies": {
-    "standard": "^8.5.0"
+    "standard": "^9.0.1"
   }
 }
